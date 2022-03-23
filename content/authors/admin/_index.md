@@ -3,9 +3,11 @@ title: Florian Wörz
 role: Doctoral Student
 bio: My research interests include proof complexity and SAT solving.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Proof Complexity
+  - Complexity Theory
+  - SAT Solving
+  - Data Science
+  - Algorithms
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,14 +29,14 @@ organizations:
     name: Universität Ulm
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD Candidate in Theoretical Computer Science
+      institution: Ulm University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: M.Sc. in Mathematics
+      institution: Ulm University & University of Helsinki
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: B.Sc. in Mathematics
+      institution: Ulm University
       year: 2008
 email: ""
 superuser: true
