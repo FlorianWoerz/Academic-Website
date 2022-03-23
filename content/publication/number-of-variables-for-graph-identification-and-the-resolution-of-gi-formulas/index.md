@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - jacobo-toran
+  - jacobo-torán
 draft: false
 featured: false
 image:
