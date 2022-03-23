@@ -23,8 +23,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
   - url: https://www.uni-ulm.de
     name: Universität Ulm
 education:
