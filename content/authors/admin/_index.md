@@ -25,6 +25,8 @@ social:
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
+  - url: https://www.uni-ulm.de
+    name: Universität Ulm
 education:
   courses:
     - course: PhD in Artificial Intelligence
