@@ -5,8 +5,10 @@ publication_types:
 authors:
   - admin
   - jacobo-torán
+author_notes: []
+doi: doi:10.4230/LIPIcs.CSL.2022.36
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
