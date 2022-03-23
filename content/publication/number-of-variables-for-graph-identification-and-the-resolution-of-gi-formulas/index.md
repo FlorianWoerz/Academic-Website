@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - jacobo-torán
+  - jacobo-toran
 author_notes: []
 doi: doi:10.4230/LIPIcs.CSL.2022.36
 draft: false
