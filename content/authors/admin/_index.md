@@ -31,20 +31,18 @@ education:
   courses:
     - course: PhD Candidate in Theoretical Computer Science
       institution: Ulm University
-      year: 2012
+      year: 2024
     - course: M.Sc. in Mathematics
       institution: Ulm University & University of Helsinki
-      year: 2009
+      year: 2018
     - course: B.Sc. in Mathematics
       institution: Ulm University
-      year: 2008
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hello! My name is Florian Wörz and I am a PhD Candidate at the Institute of Theoretical Computer Science at the University of Ulm. I am mainly interested in proof complexity and SAT solving.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
