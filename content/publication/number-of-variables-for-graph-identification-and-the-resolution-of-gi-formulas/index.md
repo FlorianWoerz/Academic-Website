@@ -3,7 +3,8 @@ title: Number of Variables for Graph Identification and the Resolution of GI For
 publication_types:
   - "1"
 authors:
-  - admin;Jacobo_Torán
+  - admin
+  - jacobo-toran
 draft: false
 featured: false
 image:
