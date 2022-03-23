@@ -13,7 +13,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - jhl
+  - jan-hendrik-lorenz
 author_notes:
   - Equal contribution
   - Equal contribution
